@@ -2,7 +2,7 @@
 
 # Enrolling in Multifactor Authentication (MFA)
 
-M-RETS has updated our multi-factor authentication (MFA) sign-in options for enhanced security. As part of this update, the use of the Authy app has been discounted. Instead, users with MFA enabled will need to request their authentication code via SMS or Voice call. This MFA method ensures secure access by combining your credentials with a time-based one-time password obtained on your trusted mobile device.
+M-RETS offers a multi-factor authentication (MFA) sign-in option for enhanced security. Users with MFA enabled will need to request their authentication code via SMS or Voice call. This MFA method ensures secure access by combining your credentials with a time-based one-time password obtained on your trusted mobile device.
 
 MFA will be an opt-in process for Organizations for the time being. Our implementation will support receiving the MFA key via SMS or phone call. Our goal is to make it as flexible as possible. If you have any concerns or thoughts you would like to share as we complete this work, please contact systemadmin@mrets.org.
 
@@ -18,7 +18,7 @@ Don't leave your organization vulnerable to attacks. If you're not using MFA, yo
 
 <br>
 
-### You will notice the MFA field under your profile. Select 'Edit'
+### You will notice the MFA field under your profile. Select 'Edit'.
 
 ![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%202.png?raw=true)
 
@@ -38,7 +38,7 @@ Don't leave your organization vulnerable to attacks. If you're not using MFA, yo
 
 <br>
 
-### Enter your phone number and select save 'update'
+### Enter your phone number and select save 'update'.
 
 ![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%204.png?raw=true)
 
