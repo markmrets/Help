@@ -11,7 +11,7 @@ A Retirement Account is a repository for M-RETS Certificates that the Organizati
 
 ### Step 2: Select "Retire"
 
-![](https://github.com/mrets/photos/blob/0d7a399d337fb1247d53933a4fd66dd12244753f/retiring_certificates3.2.png)
+![](https://github.com/mrets/photos/blob/master/retiring_certificates3.2.png)
 
 <br>
 
